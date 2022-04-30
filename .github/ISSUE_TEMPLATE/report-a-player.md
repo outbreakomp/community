@@ -2,7 +2,7 @@
 name: Report a Player
 about: Use this template to report a player.
 title: "[PLAYER REPORT]"
-labels: ''
+labels: player-report
 assignees: ''
 
 ---
