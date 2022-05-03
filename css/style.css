@@ -58,6 +58,14 @@ h3 {
 * Main Content
 */
 main {
+    width: 80%;
+    border: 0;
+    margin:0 auto;
+    padding: 0;
+    overflow: hidden;
+}
+
+.main-wrapper {
     clear: both;
     margin: 0;
     border-style: solid;
@@ -66,15 +74,7 @@ main {
     background-color: #2A2A2A;
 }
 
-.main-content {
-    width: 80%;
-    border: 0;
-    margin:0 auto;
-    padding: 0;
-    overflow: hidden;
-}
-
-#content {
+.content {
     width:100%;
 }
 
