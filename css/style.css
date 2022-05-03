@@ -28,7 +28,7 @@ a {
 }
 
 a:hover {
-    color:#121212;
+    color:#ffffff;
 }
 
 header {
@@ -36,14 +36,14 @@ header {
 }
 
 header h1 {
-    color: E9E9E9;
+    color: #E9E9E9;
     font-family: Georgia,serif;
     font-size: 2.4em;
     margin: 0 0 8px;
 }
 
 h2 {
-    color: E9E9E9;
+    color: #E9E9E9;
     font-family: Georgia,serif;
     font-size: 2.2em;
     font-weight: 400;
@@ -51,7 +51,7 @@ h2 {
 }
 
 h3 {
-    color: E9E9E9;
+    color: #E9E9E9;
     font-family: Georgia,serif;
     font-size: 1.6em;
     font-weight: 400;
